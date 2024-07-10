@@ -33,9 +33,9 @@
 	<developers>
 		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>imagejan</id>
-			<name>Jan Eglinger</name>
-			<url>https://imagej.net/User:Eglinger</url>
+			<id>ianfc</id>
+			<name>Ian Coccimiglio</name>
+			<url>https://imagej.net/User:IanFC</url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
